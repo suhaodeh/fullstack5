@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+.our products{
+    color: black;
+    background-color: blueviolet;
+    width: 40px;
+}
+h2{
+    width: 20%;
+    text-align:right;
+}
+.products1{
+   
+    float: left;
+    width: 25%;
+    
+    img{
+        width: 25%;
+    }
+    background-color:white;
+    .add{
+        background-color: blue;
+    }
+
+}
+.clearfix{clear: left;}
+.products2{
+    float: left;
+    width: 25%;
+   
+    background-color: white;
+    width: 20%;
+   } 
+    img{
+        width: 25%;
+    }
+    
+    .add{
+        background-color: blue;
+    }
+
+
+.clearfix{clear: left;}
